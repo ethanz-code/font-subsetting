@@ -1,0 +1,5 @@
+{
+  "name": "FontForge - Minimalist Font Subsetter",
+  "description": "A minimalist, professional tool to subset and optimize fonts for web usage. Import fonts, select characters, and export optimized packages.",
+  "requestFramePermissions": []
+}
